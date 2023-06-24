@@ -3,3 +3,12 @@ numpy==1.18.1
 pandas==1.0.1
 pillow==8.1.0
 streamlit==0.75.0
+datetime
+yfinance
+plotly
+
+pystan==2.19.1.1
+pystan
+lunarcalendar
+holidays==0.10.5
+fbprophet
