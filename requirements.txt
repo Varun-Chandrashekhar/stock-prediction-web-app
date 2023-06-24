@@ -5,6 +5,11 @@ datetime
 yfinance
 plotly
 
-pystan
+io
+os
+sys
+setuptools
+tokenize
+
 prophet
 
