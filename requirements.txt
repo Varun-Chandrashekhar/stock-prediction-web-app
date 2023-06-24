@@ -1,5 +1,6 @@
 scikit-learn>=0.22.1
 streamlit==0.75.0
+numpy
 datetime
 yfinance
 plotly
