@@ -15,7 +15,7 @@ TODAY = date.today().strftime("%Y-%m-%d")
 
 # Set page configuration
 st.set_page_config(
-    page_title='Varun's Stock Predictor',
+    page_title='Varun\'s Stock Predictor',
     layout='wide',
     initial_sidebar_state='expanded',
     menu_items={
@@ -317,7 +317,7 @@ st.markdown(
     """
     <hr>
     <p style='text-align: center; color: #7f8c8d;'>
-        © 2024 Varun's Stock Predictor. All rights reserved.
+        © 2024 Varun\'s Stock Predictor. All rights reserved.
     </p>
     """,
     unsafe_allow_html=True
