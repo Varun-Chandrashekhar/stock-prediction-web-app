@@ -68,7 +68,7 @@ st.markdown(
 )
 
 # Main title
-st.markdown("<h1 class='main-title'>Advanced Stock Predictor</h1>", unsafe_allow_html=True)
+st.markdown("<h1 class='main-title'>Varun's Stock Predictor</h1>", unsafe_allow_html=True)
 
 # Sidebar for user inputs
 st.sidebar.header("User Input Parameters")
